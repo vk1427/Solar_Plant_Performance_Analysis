@@ -1,0 +1,2 @@
+total_rows,inverters,first_day,last_day,missing_energy_readings,missing_voltage_readings,negative_energy_values,duplicate_keys
+4380,12,2025-01-01,2025-12-31,10,6,0,0

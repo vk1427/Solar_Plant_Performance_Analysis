@@ -1,0 +1,118 @@
+{
+  "generation_mwh": 3377.2,
+  "plant_pr_pct": 80.26,
+  "specific_yield_kwh_per_kwp": 1128.3,
+  "avg_availability_pct": 99.66,
+  "total_alarms": 290,
+  "best_month": [
+    "2025-12",
+    84.41
+  ],
+  "worst_month": [
+    "2025-06",
+    76.35
+  ],
+  "inverters_flagged": [
+    [
+      "INV-04",
+      -6.53,
+      "ACTION"
+    ],
+    [
+      "INV-09",
+      -3.39,
+      "ACTION"
+    ],
+    [
+      "INV-10",
+      -1.15,
+      "WATCH"
+    ]
+  ],
+  "total_loss_mwh": 38.6,
+  "total_loss_inr_lakh": 1.2,
+  "tariff_inr_per_kwh": 3.0,
+  "top_loss": [
+    [
+      "INV-04",
+      19.2,
+      0.3,
+      18.9
+    ],
+    [
+      "INV-09",
+      10.3,
+      0.1,
+      10.2
+    ],
+    [
+      "INV-10",
+      3.9,
+      0.5,
+      3.4
+    ],
+    [
+      "INV-11",
+      3.0,
+      5.6,
+      -2.5
+    ],
+    [
+      "INV-05",
+      0.9,
+      0.2,
+      0.7
+    ]
+  ],
+  "alarm_downtime_top": [
+    [
+      "INV-11",
+      "Inverter fault",
+      6,
+      62,
+      60.0
+    ],
+    [
+      "INV-02",
+      "DC overvoltage",
+      14,
+      68,
+      26.4
+    ],
+    [
+      "INV-08",
+      "Grid trip",
+      7,
+      9,
+      7.9
+    ],
+    [
+      "INV-03",
+      "Grid trip",
+      6,
+      10,
+      7.0
+    ],
+    [
+      "INV-11",
+      "Grid trip",
+      7,
+      12,
+      6.9
+    ]
+  ],
+  "underperforming_days_top": [
+    [
+      "INV-04",
+      207,
+      "2025-03-15",
+      "2025-10-10"
+    ],
+    [
+      "INV-09",
+      103,
+      "2025-01-13",
+      "2025-12-25"
+    ]
+  ]
+}

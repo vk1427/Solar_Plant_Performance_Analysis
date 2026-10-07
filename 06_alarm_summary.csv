@@ -1,0 +1,27 @@
+inverter_id,alarm_type,days_with_alarm,total_alarms,downtime_hours
+INV-11,Inverter fault,6,62,60.0
+INV-02,DC overvoltage,14,68,26.4
+INV-08,Grid trip,7,9,7.9
+INV-03,Grid trip,6,10,7.0
+INV-11,Grid trip,7,12,6.9
+INV-12,Grid trip,7,12,6.7
+INV-07,Grid trip,5,6,6.1
+INV-10,Grid trip,7,8,6.0
+INV-01,Grid trip,5,7,6.0
+INV-06,Grid trip,6,8,5.4
+INV-04,Grid trip,5,8,4.2
+INV-05,Grid trip,2,4,2.5
+INV-02,Grid trip,2,4,2.4
+INV-09,Grid trip,2,4,1.8
+INV-06,Comm loss,9,9,0.0
+INV-05,Comm loss,8,8,0.0
+INV-12,Comm loss,7,7,0.0
+INV-10,Comm loss,7,7,0.0
+INV-09,Comm loss,6,6,0.0
+INV-08,Comm loss,6,6,0.0
+INV-03,Comm loss,6,6,0.0
+INV-02,Comm loss,5,5,0.0
+INV-01,Comm loss,5,5,0.0
+INV-11,Comm loss,4,4,0.0
+INV-07,Comm loss,3,3,0.0
+INV-04,Comm loss,2,2,0.0
